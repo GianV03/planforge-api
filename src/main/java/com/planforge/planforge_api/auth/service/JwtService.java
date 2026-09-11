@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Date;
 
 @Service
-public class JWTService {
+public class JwtService {
 
     private final String SECRET = "una-clave-super-larga-de-prueba";
 
